@@ -1,0 +1,1 @@
+Beste, deze laatste commit is enkel voor deze readme file. Momenteel heeft de webshop enkel de homepagina. Wegens tijdtekort is dit alles wat afgeraakt is.
