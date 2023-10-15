@@ -1,0 +1,12 @@
+{
+  "name": "PE-1",
+  "version": "1.0.0",
+  "description": "Dit is een permanente evaluatie voor web scripting",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch scss/main.scss:css/main.css"
+  },
+  "dependencies": {
+    "sass": "^1.69.3"
+  }
+}
